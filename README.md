@@ -21,7 +21,9 @@ The primary objective is to explore if penguins of the same species exhibit diff
 Notebook can be imported into Google Colab, VS Code, or uploaded to Jupyter Notebooks.
 Make sure that dataset is properly targeted under Read_CSV. 
 
-Feel free to experiment and have fun!
+[View my blog where I explain K-Means Clustering](https://vanessawithun.com/k-means-clustering-for-data-science/)
+
+🤘 Feel free to experiment and have fun!
 
 
 
